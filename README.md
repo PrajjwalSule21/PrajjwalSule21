@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **PowerBI**
 
-- 💬 Ask me about **Data Analysis | Machine Learning | Excel | BI Tool | Data Base**
+- 💬 Ask me about **Data Analysis | Machine Learning | Excel | BI Tool | SQL**
 
 - 📫 How to reach me **suleprajjwal21@gmail.com**
 
-- ⚡ Fun fact **I'm passionate about Data Science, and I believe in Paranormal things**
+- ⚡ Fun fact **The strongest muscle in the body is the tongue, so use it wisely**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
