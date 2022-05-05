@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsule21&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsule21" /> </p>
 
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Data Analysis | Machine Learning | Excel | BI Tool | SQL**
 
 - 📫 How to reach me **suleprajjwal21@gmail.com**
 
-- ⚡ Fun fact **The strongest muscle in the body is the tongue, so use it wisely**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
