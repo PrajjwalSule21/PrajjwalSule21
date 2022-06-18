@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsule21&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsule21" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning | NLP**
 
-- 💬 Ask me about **Data Analysis | Machine Learning | Excel | BI Tool | SQL**
+- 💬 Ask me about **Data Analysis | Machine Learning | SQL**
 
 - 📫 How to reach me **suleprajjwal21@gmail.com**
 
