@@ -20,8 +20,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL))
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Machine Learning](https://img.shields.io/badge/-MachineLearning-000?&logo=MachineLearning)
 
 
 <a style="padding:20px"> <img style="padding:20px" src="https://github-readme-stats.vercel.app/api?username=prajjwalsule21&show_icons=true&theme=radical">  &nbsp; &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalsule21&hide=SCSS,less,php&bg_color=DEG&langs_count=3"></a>
