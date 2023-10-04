@@ -20,11 +20,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL))
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 
-![](https://komarev.com/ghpvc/?username=PrajjwalSule21&color=blue)
-
-<a style="padding:20px"> <img style="padding:20px" src="https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical">  &nbsp; &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalSule21&hide=SCSS,less,php&bg_color=DEG&langs_count=3"></a>
+<a style="padding:20px"> <img style="padding:20px" src="https://github-readme-stats.vercel.app/api?username=prajjwalsule21&show_icons=true&theme=radical">  &nbsp; &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalsule21&hide=SCSS,less,php&bg_color=DEG&langs_count=3"></a>
