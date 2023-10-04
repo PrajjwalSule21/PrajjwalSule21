@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Sule</h1>
 <h3 align="center">A passionate Data Industry learner from India</h3>
 
+![LeetCode](https://leetcode.com/suleprajjwal21/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsule21&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsule21" /> </p>
 
 #### My name is Prajjwal Sule I am a software engineer, whose having a knowledge of Python and its framework such as Flask, Selenium and Django as well I have a keen interest in the field of AI and I am looking forrward learn more about such technologies so that I can build something intresting .
