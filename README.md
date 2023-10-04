@@ -8,22 +8,10 @@
 - 💬 Ask me about **Python | Flask | Selenium | Data Analysis | Machine Learning**
 
 - 📫 How to reach me **suleprajjwal21@gmail.com**
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
-
-### Frameworks & Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-
-
 
 
 <a style="padding:20px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalsule21&hide=SCSS,less,php&bg_color=DEG&langs_count=3"></a>
