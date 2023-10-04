@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Sule</h1>
 <h3 align="center">A passionate Data Industry learner from India</h3>
 
-![LeetCode](https://leetcode.com/suleprajjwal21/)
+[LeetCode](https://leetcode.com/suleprajjwal21/)
+![LinkedIn](https://www.linkedin.com/in/prajjwal-sule/)
+![Medium](https://medium.com/@iamsule21)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsule21&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsule21" /> </p>
 
