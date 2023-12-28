@@ -3,13 +3,13 @@
 
 ### Let's Connect! 🤝
 <h2 align="left">
-<a href="https://www.linkedin.com/in/prajjwal-sule/" target="_blank">
+<a href="https://www.linkedin.com/in/prajjwal-sule/">
      <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/LinkedIN.png" width="32" height="32"/>
      </a>
-<a href="https://medium.com/@iamsule21" target="_blank">
+<a href="https://medium.com/@iamsule21">
      <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/Medium.png" width="32" height="32"/>
      </a>
-<a href="https://leetcode.com/suleprajjwal21/" target="_blank" rel="noopener noreferrer">
+<a href="https://leetcode.com/suleprajjwal21/">
      <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/LeetCodeDD.png" width="32" height="32"/>
      </a>
 </h2>
