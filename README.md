@@ -3,7 +3,7 @@
 
 [LeetCode](https://leetcode.com/suleprajjwal21/)
 [LinkedIn](https://www.linkedin.com/in/prajjwal-sule/)
-[Medium](https://medium.com/@iamsule21)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@iamsule21)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsule21&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsule21" /> </p>
 
