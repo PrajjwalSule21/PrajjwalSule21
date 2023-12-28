@@ -3,11 +3,10 @@
 
 [LeetCode](https://leetcode.com/suleprajjwal21/)
 [LinkedIn](https://www.linkedin.com/in/prajjwal-sule/)
-[Medium](https://medium.com/@iamsule21)![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
+[Medium](https://medium.com/@iamsule21)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsule21&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsule21" /> </p>
 
-#### My name is Prajjwal Sule I am a software engineer, whose having a knowledge of Python and its framework such as Flask, Selenium and Django as well I have a keen interest in the field of AI and I am looking forrward learn more about such technologies so that I can build something intresting .
+#### My name is Prajjwal Sule, and I am a seasoned software engineer with expertise in Python and its frameworks, including Flask, Selenium, and Django. My professional journey has honed my skills in developing robust and scalable applications. I possess a profound interest in the realm of Artificial Intelligence, and I am actively seeking opportunities to expand my knowledge in cutting-edge AI technologies. My goal is to further enrich my skill set, enabling me to contribute to innovative projects and create impactful solutions in the dynamic field of AI. .
 
 - 💬 Ask me about **Python | Flask | Selenium | Data Analysis | Machine Learning**
 
