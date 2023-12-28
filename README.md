@@ -11,7 +11,12 @@
 - 💬 Ask me about **Python | Flask | Selenium | Data Analysis | Machine Learning**
 
 - 📫 How to reach me **suleprajjwal21@gmail.com**
-
+  
+<h2 align="left">
+<a href="https://www.linkedin.com/in/prajjwal-sule/">
+     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+     </a>
+</h2>
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
