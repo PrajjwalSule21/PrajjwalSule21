@@ -10,7 +10,7 @@
      <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/Medium.png" width="32" height="32"/>
      </a>
 <a href="https://leetcode.com/suleprajjwal21/" target="_blank">
-     <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/LeetCodeD.png" width="32" height="32"/>
+     <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/LeetCodeDD.png" width="32" height="32"/>
      </a>
 </h2>
 
