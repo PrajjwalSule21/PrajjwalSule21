@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Sule</h1>
 <h3 align="center">A passionate Data Industry learner from India</h3>
+
+### Let's Connect! 🤝
 <h2 align="left">
 <a href="https://www.linkedin.com/in/prajjwal-sule/">
-     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="32" height="32"/>
+     <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/LinkedIN.png" width="32" height="32"/>
      </a>
 <a href="https://medium.com/@iamsule21">
-     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" width="32" height="32"/>
+     <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/Medium.png" width="32" height="32"/>
      </a>
 <a href="https://leetcode.com/suleprajjwal21/">
-     <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.pn" width="32" height="32"/>
+     <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/Leetcode.png" width="32" height="32"/>
      </a>
 </h2>
 
