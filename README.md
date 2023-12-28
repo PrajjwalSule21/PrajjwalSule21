@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Sule</h1>
 <h3 align="center">A passionate Data Industry learner from India</h3>
+<h2 align="left">
+<a href="https://www.linkedin.com/in/prajjwal-sule/">
+     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="32" height="32"/>
+     </a>
+<a href="https://medium.com/@iamsule21">
+     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" width="32" height="32"/>
+     </a>
+<a href="https://leetcode.com/suleprajjwal21/">
+     <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.pn" width="32" height="32"/>
+     </a>
+</h2>
 
-[LeetCode](https://leetcode.com/suleprajjwal21/)
-[LinkedIn](https://www.linkedin.com/in/prajjwal-sule/)
-[Medium](https://medium.com/@iamsule21)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsule21&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsule21" /> </p>
 
 #### My name is Prajjwal Sule, and I am a seasoned software engineer with expertise in Python and its frameworks, including Flask, Selenium, and Django. My professional journey has honed my skills in developing robust and scalable applications. I possess a profound interest in the realm of Artificial Intelligence, and I am actively seeking opportunities to expand my knowledge in cutting-edge AI technologies. My goal is to further enrich my skill set, enabling me to contribute to innovative projects and create impactful solutions in the dynamic field of AI. .
@@ -11,12 +20,7 @@
 - 💬 Ask me about **Python | Flask | Selenium | Data Analysis | Machine Learning**
 
 - 📫 How to reach me **suleprajjwal21@gmail.com**
-  
-<h2 align="left">
-<a href="https://www.linkedin.com/in/prajjwal-sule/">
-     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
-     </a>
-</h2>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
