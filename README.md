@@ -3,14 +3,14 @@
 
 ### Let's Connect! 🤝
 <h2 align="left">
-<a href="https://www.linkedin.com/in/prajjwal-sule/">
+<a href="https://www.linkedin.com/in/prajjwal-sule/" target="_blank">
      <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/LinkedIN.png" width="32" height="32"/>
      </a>
-<a href="https://medium.com/@iamsule21">
+<a href="https://medium.com/@iamsule21" target="_blank">
      <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/Medium.png" width="32" height="32"/>
      </a>
-<a href="https://leetcode.com/suleprajjwal21/">
-     <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/Leetcode.png" width="32" height="32"/>
+<a href="https://leetcode.com/suleprajjwal21/" target="_blank">
+     <img src="https://github.com/PrajjwalSule21/social-icon/blob/main/LeetCodeD.png" width="32" height="32"/>
      </a>
 </h2>
 
@@ -28,6 +28,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
