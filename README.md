@@ -36,3 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white)
+
+
+<a style="padding:20px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalsule21&hide=SCSS,less,php&bg_color=DEG&langs_count=3"></a>
+
