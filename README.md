@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwalsule21&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwalsule21" /> </p>
 
-#### My name is Prajjwal Sule, and I am a seasoned software engineer with expertise in Python and its frameworks, including Flask, Selenium. My professional journey has honed my skills in developing robust and scalable applications. I possess a profound interest in the realm of Artificial Intelligence specially in Generatice AI, and I am actively seeking opportunities to expand my knowledge in cutting-edge AI technologies. My goal is to further enrich my skill set, enabling me to contribute to innovative projects and create impactful solutions in the dynamic field of AI. .
+#### My name is Prajjwal Sule, and I am a seasoned software engineer with expertise in Python and its frameworks, including Flask, FastAPI, Selenium, and Streamlit. My professional journey has honed my skills in developing robust and scalable applications. I possess a profound interest in the realm of Artificial Intelligence specially in Generative AI, and I am actively seeking opportunities to expand my knowledge in cutting-edge AI technologies. My goal is to further enrich my skill set, enabling me to contribute to innovative projects and create impactful solutions in the dynamic field of AI. .
 
 - 💬 Ask me about **Python | Flask | PySpak | Big Data Analysis | Machine Learning | Deep Learning | NLP | Generative AI**
 
@@ -26,7 +26,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
