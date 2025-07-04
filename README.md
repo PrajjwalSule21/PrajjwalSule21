@@ -15,16 +15,6 @@ I’m a backend developer with 1.4 years of experience, currently building AI-po
 - ⚙️ Design and deploy backend systems using **FastAPI**
 - 📝 Craft high-quality **prompts** and publish technical articles on use cases
 - 🚀 Rapid prototyping for client-specific solutions using **OpenAI APIs**
-- 🧩 Learning **LangChain**, **RAG pipelines**, and **Autonomous Agents**
-
----
-
-### 📌 Currently Learning
-
-- 🧱 RAG Architecture and Vector Stores (ChromaDB, Pinecone)
-- 🧠 LangChain, OpenAI Function Calling, Agent Orchestration
-- ⚙️ Building end-to-end AI workflows using **FastAPI + LLMs**
-- 🐳 Docker, CI/CD, Deployment on Render/Railway
 
 ---
 
@@ -33,8 +23,6 @@ I’m a backend developer with 1.4 years of experience, currently building AI-po
 - ✉️ Email: **suleprajjwal21@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prajjwal-sule/)  
 - 📝 [Medium](https://medium.com/@iamsule21)  
-- 🧩 [LeetCode](https://leetcode.com/suleprajjwal21/)
-
 ---
 
 ### 🛠️ Tech Stack
@@ -61,16 +49,6 @@ I’m a backend developer with 1.4 years of experience, currently building AI-po
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjwalSule21&layout=compact&hide=SCSS,less,php&theme=tokyonight" alt="top languages" />
 </p>
-
----
-
-### 🔍 Goals (Next 2 Months)
-
-- ✅ Master RAG & Vector DBs  
-- ✅ Build & publish 2 LLM-based apps  
-- ✅ Write technical blogs & case studies  
-- ✅ Crack remote job at ₹10 LPA+  
-- ✅ Collaborate on open-source agent frameworks  
 
 ---
 
