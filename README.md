@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Sule</h1>
-<h3 align="center">AI Enthusiast | Backend Developer | Lyzr Agent Builder</h3>
+<h3 align="center">AI Backend Engineer</h3>
 
 ---
 
 ### 🚀 About Me
 
-I’m a backend developer with 1.4 years of experience, currently building AI-powered prototypes using FastAPI and Lyzr Agent Studio. I specialize in creating robust, scalable backends and integrating AI agents into production-ready applications. With a growing passion for Generative AI and Prompt Engineering, I'm focused on upskilling in LLMs, LangChain, and building AI agent workflows. I'm seeking remote opportunities where I can contribute to innovative AI products and grow as an AI/LLM Developer.
+I am an AI Backend Engineer specializing in architecting production-grade microservices, high-throughput APIs, and enterprise-level Generative AI systems. My expertise lies in designing multi-agent orchestrations, productionizing advanced RAG pipelines, and optimizing vector database architectures to deliver scalable, low-latency AI solutions. Driven by complex system design and performance optimization, I bridge the gap between cutting-edge LLM frameworks and stable backend infrastructure.
 
 ---
 
 ### 💼 What I Do
 
-- 🧠 Build AI-powered prototypes using **Lyzr Agent Studio**
-- ⚙️ Design and deploy backend systems using **FastAPI**
-- 📝 Craft high-quality **prompts** and publish technical articles on use cases
-- 🚀 Rapid prototyping for client-specific solutions using **OpenAI APIs**
-
+- 🧠 **Agentic AI & Multi-Agent Orchestration:** Architecting autonomous digital assistants and complex multi-agent workflows using LangChain, LlamaIndex, and the Lyzr SDK.
+- ⚙️ **Production Backend Systems:** Engineering asynchronous, high-throughput RESTful APIs using FastAPI and Flask, with a focus on optimizing data-access layers and system reliability.
+- 🗄️ **Vector & Relational Data Infrastructure:** Designing and tuning data layers across Weaviate, PostgreSQL, MongoDB, and Supabase for efficient semantic search and retrieval.
+- 📝 **Technical Writing & Community Evangelism:** Authoring deep-dive technical guides on advanced GenAI implementations, agentic architectures, and developer onboarding on Medium and Dev.to.
 ---
 
 ### 📫 Reach Me At
